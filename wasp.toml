@@ -6,10 +6,6 @@ file = 'apps/stopwatch.py'
 quick_ring = true
 
 [[app]]
-file = 'apps/beacon.py'
-quick_ring = true
-
-[[app]]
 file = 'apps/pomodoro.py'
 quick_ring = true
 
